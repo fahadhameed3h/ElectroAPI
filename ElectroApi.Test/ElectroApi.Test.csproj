@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InMemoryWebApiUsingEF\ApplianceAPI.csproj" />
+    <ProjectReference Include="..\ApplianceAPI\ApplianceAPI.csproj" />
   </ItemGroup>
 
 </Project>
